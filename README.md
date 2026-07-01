@@ -1,9 +1,3 @@
-
-Bunlar yanlış yerde kalınca alttaki her şeyi kod kutusunun içine alıyor.
-
-README’nin tamamını sil, bunu **aynen tek parça yapıştır**:
-
-```markdown
 # Smart Athlete Card Simulation
 
 A Python school project that simulates a smart athlete card league system.
