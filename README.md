@@ -20,12 +20,18 @@ It was developed as a coursework project to practice Python programming, object-
 
 - Python
 
+## Dataset
+
+The project uses `sporcular.csv` as the input data file.
+
 ## How to Run
 
 Run the following command in the project folder:
 
 ```bash
 python main.py
-## Dataset
+```
 
-The project uses `sporcular.csv` as the input data file.
+## Purpose
+
+This project was developed as a school project to practice Python fundamentals, object-oriented programming, and simulation logic.
