@@ -1,3 +1,9 @@
+
+Bunlar yanlış yerde kalınca alttaki her şeyi kod kutusunun içine alıyor.
+
+README’nin tamamını sil, bunu **aynen tek parça yapıştır**:
+
+```markdown
 # Smart Athlete Card Simulation
 
 A Python school project that simulates a smart athlete card league system.
@@ -26,11 +32,9 @@ The project uses `sporcular.csv` as the input data file.
 
 ## How to Run
 
-Run the following command in the project folder:
+Run this command in the project folder:
 
-```bash
 python main.py
-```
 
 ## Purpose
 
