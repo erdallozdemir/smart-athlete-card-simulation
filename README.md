@@ -26,3 +26,6 @@ Run the following command in the project folder:
 
 ```bash
 python main.py
+## Dataset
+
+The project uses `sporcular.csv` as the input data file.
